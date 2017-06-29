@@ -796,7 +796,7 @@ int id action_menu_presenter 0x7f0d0003
 int id action_mode_bar 0x7f0d0067
 int id action_mode_bar_stub 0x7f0d0066
 int id action_mode_close_button 0x7f0d0049
-int id action_settings 0x7f0d00b2
+int id action_settings 0x7f0d00b1
 int id action_text 0x7f0d0089
 int id actions 0x7f0d0097
 int id activity_chooser_view_content 0x7f0d004a
@@ -821,7 +821,7 @@ int id collapseActionView 0x7f0d0041
 int id contentPanel 0x7f0d0054
 int id custom 0x7f0d005b
 int id customPanel 0x7f0d005a
-int id deactivateLabel 0x7f0d00b0
+int id deactivateLabel 0x7f0d00af
 int id decor_content_parent 0x7f0d0068
 int id defaultLabel 0x7f0d00a9
 int id default_activity_button 0x7f0d004d
@@ -861,7 +861,6 @@ int id imageView2 0x7f0d007a
 int id info 0x7f0d0094
 int id item_touch_helper_previous_elevation 0x7f0d0009
 int id kickButton 0x7f0d00a5
-int id labelOptionsButton 0x7f0d00ad
 int id largeLabel 0x7f0d007c
 int id left 0x7f0d0030
 int id line1 0x7f0d0099
@@ -869,7 +868,7 @@ int id line3 0x7f0d009b
 int id listMode 0x7f0d0013
 int id list_item 0x7f0d004e
 int id marquee 0x7f0d003c
-int id masked 0x7f0d00af
+int id masked 0x7f0d00ae
 int id media_actions 0x7f0d008d
 int id middle 0x7f0d003d
 int id mini 0x7f0d003b
@@ -887,7 +886,7 @@ int id pin 0x7f0d0035
 int id progress_circular 0x7f0d000a
 int id progress_horizontal 0x7f0d000b
 int id radio 0x7f0d0063
-int id resetLabels 0x7f0d00b1
+int id resetLabels 0x7f0d00b0
 int id right 0x7f0d0031
 int id right_icon 0x7f0d0096
 int id right_side 0x7f0d0091
@@ -951,7 +950,7 @@ int id transition_scene_layoutid_cache 0x7f0d0010
 int id up 0x7f0d0011
 int id useLogo 0x7f0d001c
 int id view_offset_helper 0x7f0d0012
-int id visible 0x7f0d00ae
+int id visible 0x7f0d00ad
 int id wheelActivityLayout 0x7f0d009e
 int id wheelCenterGlassView 0x7f0d00a4
 int id wheelGlassView 0x7f0d00a3
@@ -1086,6 +1085,7 @@ int string search_menu_title 0x7f070013
 int string share 0x7f07002f
 int string share_text_selected 0x7f070030
 int string share_text_unselected 0x7f070031
+int string spin_the_wheel 0x7f070032
 int string status_bar_notification_info_overflow 0x7f070014
 int style AlertDialog_AppCompat 0x7f0900a2
 int style AlertDialog_AppCompat_Light 0x7f0900a3

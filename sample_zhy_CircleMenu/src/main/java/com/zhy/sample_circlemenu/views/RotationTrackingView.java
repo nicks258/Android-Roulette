@@ -173,57 +173,70 @@ public class RotationTrackingView extends View {
         while (it.hasNext()) {
             RotationTrackingViewListener listener = (RotationTrackingViewListener) it.next();
             Object obj = -1;
+            int value = -1;
             switch (event.hashCode()) {
                 case -2141794146:
                     if (event.equals("onWheelStartDescending")) {
                         obj = 3;
+                        value = 3;
+                        Log.i("onWheelStartDescending","RotationTrackingView");
                         break;
                     }
                     break;
                 case 731876721:
                     if (event.equals("onWheelStopped")) {
+                        value = 1;
+                        Log.i("onWheelStopped","RotationTrackingView");
                         obj = 1;
                         break;
                     }
                     break;
                 case 901577228:
                     if (event.equals("onWheelAngleDidChanged")) {
+                        value = 2;
+                        Log.i("onWheelAngleDidChanged","RotationTrackingView");
                         obj = 2;
                         break;
                     }
                     break;
                 case 994314638:
+
                     if (event.equals("onWheelTouchBegan")) {
+                        value = 0;
+                        Log.i("onWheelTouchBegan","RotationTrackingView");
                         obj = null;
                         break;
                     }
                     break;
                 case 1959680118:
                     if (event.equals("onWheelStopDescending")) {
+                        Log.i("onWheelStopDescending","RotationTrackingView");
+                        value = 4;
                         obj = 4;
                         break;
                     }
                     break;
             }
-//            switch (obj) {
-////                case null:
-////                    listener.onWheelTouchBegan();
-////                    break;
-//                case 1:
-//                    listener.onWheelStopped(getCurrentAngle());
-//                    break;
-//                case 2:
-//                    listener.onWheelAngleDidChanged(getCurrentAngle());
-//                    break;
-//                case 3:
-//                    listener.onWheelStartDescending();
-//                    break;
-//                case 4:
-//                    listener.onWheelStopDescending();
-//                    break;
-//                default:
-//                    break;
-//            }
+            switch (value) {
+
+                case 0:
+                    listener.onWheelTouchBegan();
+                    break;
+                case  1:
+                    listener.onWheelStopped(getCurrentAngle());
+                    break;
+                case 2:
+                    listener.onWheelAngleDidChanged(getCurrentAngle());
+                    break;
+                case 3:
+                    listener.onWheelStartDescending();
+                    break;
+                case 4:
+                    listener.onWheelStopDescending();
+                    break;
+                default:
+                    break;
+            }
         }
     }
 

@@ -40,7 +40,7 @@ public class DisplayView extends FrameLayout {
         this.frontLabel = (AutoResizeTextView) findViewById(R.id.frontLabel);
         this.defaultTextLabel = (AutoResizeTextView) findViewById(R.id.defaultLabel);
         this.defaultTextLabel.setAlpha(0.0f);
-        this.defaultTextLabel.setText("spin_the_wheel");
+        this.defaultTextLabel.setText(R.string.spin_the_wheel);
         this.defaultTextAnimation = ObjectAnimator.ofFloat(this.defaultTextLabel, "alpha", new float[]{1.0f, 0.4f});
         this.defaultTextAnimation.setDuration(500);
         this.defaultTextAnimation.setRepeatCount(-1);

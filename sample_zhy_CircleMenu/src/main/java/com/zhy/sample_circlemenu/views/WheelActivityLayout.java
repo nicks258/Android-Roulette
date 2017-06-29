@@ -15,11 +15,11 @@ import com.zhy.sample_circlemenu.R;
 public class WheelActivityLayout extends FrameLayout {
     private View displayView;
     private Button kickButton;
-    private View labelOptionsButton;
+//    private View labelOptionsButton;
     private RotationTrackingView rotationTrackingView;
     private View shareButton;
     private AutoResizeTextView templateNameLabel;
-    private View templatesButton;
+//    private View templatesButton;
     private WheelCenterGlassView wheelCenterGlassView;
     private WheelGlassView wheelGlassView;
     private View wheelGroupView;
@@ -51,9 +51,9 @@ public class WheelActivityLayout extends FrameLayout {
         this.kickButton = (Button) findViewById(R.id.kickButton);
         this.displayView = findViewById(R.id.displayView);
         this.templateNameLabel = (AutoResizeTextView) findViewById(R.id.templateNameLabel);
-        this.templatesButton = findViewById(R.id.templatesButton);
+//        this.templatesButton = findViewById(R.id.templatesButton);
         this.shareButton = findViewById(R.id.shareButton);
-        this.labelOptionsButton = findViewById(R.id.labelOptionsButton);
+//        this.labelOptionsButton = findViewById(R.id.labelOptionsButton);
     }
 
     protected void onSizeChanged(int w, int h, int oldw, int oldh) {
@@ -124,20 +124,20 @@ public class WheelActivityLayout extends FrameLayout {
         params.topMargin = Math.round(((wheelCenter.y - effectiveRadius) * 0.25f) - (((float) params.height) * 0.5f));
         this.templateNameLabel.setLayoutParams(params);
         int roundButtonPadding = (int) Math.round(((double) w) * 0.03d);
-        params = (LayoutParams) this.templatesButton.getLayoutParams();
+//        params = (LayoutParams) this.templatesButton.getLayoutParams();
         params.bottomMargin = Math.round(((float) h) * 0.015f);
         params.setMarginEnd(Math.round(((float) w) * 0.025f));
-        this.templatesButton.setLayoutParams(params);
-        this.templatesButton.setPadding(roundButtonPadding, roundButtonPadding, roundButtonPadding, roundButtonPadding);
+//        this.templatesButton.setLayoutParams(params);
+//        this.templatesButton.setPadding(roundButtonPadding, roundButtonPadding, roundButtonPadding, roundButtonPadding);
         params = (LayoutParams) this.shareButton.getLayoutParams();
         params.bottomMargin = Math.round(((float) h) * 0.015f);
         params.setMarginStart(Math.round(((float) w) * 0.025f));
         this.shareButton.setLayoutParams(params);
         this.shareButton.setPadding(roundButtonPadding, roundButtonPadding, roundButtonPadding, roundButtonPadding);
-        params = (LayoutParams) this.labelOptionsButton.getLayoutParams();
+//        params = (LayoutParams) this.labelOptionsButton.getLayoutParams();
         params.topMargin = Math.round(((float) h) * 0.015f);
         params.setMarginEnd(Math.round(((float) w) * 0.025f));
-        this.labelOptionsButton.setLayoutParams(params);
-        this.labelOptionsButton.setPadding(roundButtonPadding, roundButtonPadding, roundButtonPadding, roundButtonPadding);
+//        this.labelOptionsButton.setLayoutParams(params);
+//        this.labelOptionsButton.setPadding(roundButtonPadding, roundButtonPadding, roundButtonPadding, roundButtonPadding);
     }
 }

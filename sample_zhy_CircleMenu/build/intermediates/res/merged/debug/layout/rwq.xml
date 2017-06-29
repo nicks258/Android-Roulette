@@ -40,7 +40,7 @@
         android:id="@+id/kickButton"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="#fff" />
+        android:background="#00ffffff" />
 
     <com.zhy.sample_circlemenu.views.DisplayView
         android:id="@+id/displayView"
@@ -110,22 +110,22 @@
     <com.zhy.sample_circlemenu.views.ResponsiveImageButton
         android:id="@+id/shareButton"
         android:layout_width="wrap_content"
+
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
         android:background="@drawable/round_button"
         android:contentDescription="share"
         android:src="@drawable/share_icon" />
 
-    <com.zhy.sample_circlemenu.views.ResponsiveImageButton
-        android:id="@+id/labelOptionsButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
-        android:background="@drawable/round_button"
-        android:contentDescription="label_options"
-        android:src="@drawable/ic_label_options" />
+    <!--<com.zhy.sample_circlemenu.views.ResponsiveImageButton-->
+        <!--android:id="@+id/labelOptionsButton"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_alignParentStart="true"-->
+        <!--android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"-->
+        <!--android:background="@drawable/round_button"-->
+        <!--android:contentDescription="label_options"-->
+        <!--android:src="@drawable/ic_label_options" />-->
 </com.zhy.sample_circlemenu.views.WheelActivityLayout>

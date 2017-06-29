@@ -6,7 +6,7 @@ import android.graphics.drawable.LayerDrawable;
 import android.util.AttributeSet;
 import android.widget.ImageButton;
 
-public class ResponsiveImageButton extends ImageButton {
+public class ResponsiveImageButton extends android.support.v7.widget.AppCompatImageButton {
 
     protected class ResponsiveImageButtonDrawable extends LayerDrawable {
         protected int disabledAlpha = 85;

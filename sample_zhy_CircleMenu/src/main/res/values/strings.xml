@@ -5,6 +5,7 @@
     <string name="share_text_unselected">I\'m about to decide</string>
     <string name="app_name">Zersey</string>
     <string name="share">Share</string>
+    <string name="spin_the_wheel">Spin the wheel!</string>
     <string name="action_settings">Setting</string>
     <string name="hello_world">Hello world!</string>
     <string name="deactivate_current_label">Deactivate current label</string>

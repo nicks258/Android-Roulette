@@ -50,7 +50,7 @@ public class WheelActivity extends AppCompatActivity implements RotationTracking
     protected Wheel currentWheel;
     protected DataProvider dataProvider;
     protected DisplayView displayView;
-    protected ImageButton labelOptionsButton;
+//    protected ImageButton labelOptionsButton;
     protected WheelSection lastSection;
     protected RotationTrackingView rotationTrackingView;
     protected String selectedLabel;
@@ -138,10 +138,10 @@ public class WheelActivity extends AppCompatActivity implements RotationTracking
         this.rotationTrackingView.addEventListener(this);
         this.displayView = (DisplayView) findViewById(R.id.displayView);
         this.templateNameLabel = (TextView) findViewById(R.id.templateNameLabel);
-        ((ImageButton) findViewById(R.id.templatesButton)).setOnClickListener(new C02171());
+//        ((ImageButton) findViewById(R.id.templatesButton)).setOnClickListener(new C02171());
         ((ImageButton) findViewById(R.id.shareButton)).setOnClickListener(new C02182());
-        this.labelOptionsButton = (ImageButton) findViewById(R.id.labelOptionsButton);
-        this.labelOptionsButton.setOnClickListener(new C02193());
+//        this.labelOptionsButton = (ImageButton) findViewById(R.id.labelOptionsButton);
+//        this.labelOptionsButton.setOnClickListener(new C02193());
         ((Button) findViewById(R.id.kickButton)).setOnClickListener(new C02204());
         if (VERSION.SDK_INT >= 21) {
             getWindow().setStatusBarColor(ViewCompat.MEASURED_STATE_MASK);
@@ -183,13 +183,13 @@ public class WheelActivity extends AppCompatActivity implements RotationTracking
         this.displayView.showDefaultText();
         this.templateNameLabel.setText(template.name);
         unselect();
-        ImageButton imageButton = this.labelOptionsButton;
+//        ImageButton imageButton = this.labelOptionsButton;
         if (canHideLabel().booleanValue() || canResetLabels().booleanValue()) {
             z = true;
         } else {
             z = false;
         }
-        imageButton.setEnabled(z);
+//        imageButton.setEnabled(z);
     }
 
     private void selectWheelAtAngle(float angle) {

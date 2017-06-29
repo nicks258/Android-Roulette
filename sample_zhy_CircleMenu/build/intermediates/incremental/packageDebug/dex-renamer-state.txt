@@ -1,4 +1,4 @@
-#Thu Jun 29 21:02:53 IST 2017
+#Fri Jun 30 00:32:51 IST 2017
 base.0=J\:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=J\:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
