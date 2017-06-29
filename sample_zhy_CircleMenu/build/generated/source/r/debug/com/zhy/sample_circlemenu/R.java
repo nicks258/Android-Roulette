@@ -3214,7 +3214,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0d0067;
         public static final int action_mode_bar_stub=0x7f0d0066;
         public static final int action_mode_close_button=0x7f0d0049;
-        public static final int action_settings=0x7f0d00b1;
+        public static final int action_settings=0x7f0d00b0;
         public static final int action_text=0x7f0d0089;
         public static final int actions=0x7f0d0097;
         public static final int activity_chooser_view_content=0x7f0d004a;
@@ -3239,7 +3239,7 @@ containing a value of this type.
         public static final int contentPanel=0x7f0d0054;
         public static final int custom=0x7f0d005b;
         public static final int customPanel=0x7f0d005a;
-        public static final int deactivateLabel=0x7f0d00af;
+        public static final int deactivateLabel=0x7f0d00ae;
         public static final int decor_content_parent=0x7f0d0068;
         public static final int defaultLabel=0x7f0d00a9;
         public static final int default_activity_button=0x7f0d004d;
@@ -3286,7 +3286,7 @@ containing a value of this type.
         public static final int listMode=0x7f0d0013;
         public static final int list_item=0x7f0d004e;
         public static final int marquee=0x7f0d003c;
-        public static final int masked=0x7f0d00ae;
+        public static final int masked=0x7f0d00ad;
         public static final int media_actions=0x7f0d008d;
         public static final int middle=0x7f0d003d;
         public static final int mini=0x7f0d003b;
@@ -3304,7 +3304,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0d000a;
         public static final int progress_horizontal=0x7f0d000b;
         public static final int radio=0x7f0d0063;
-        public static final int resetLabels=0x7f0d00b0;
+        public static final int resetLabels=0x7f0d00af;
         public static final int right=0x7f0d0031;
         public static final int right_icon=0x7f0d0096;
         public static final int right_side=0x7f0d0091;
@@ -3328,7 +3328,7 @@ containing a value of this type.
         public static final int sectionsView=0x7f0d00a0;
         public static final int select_dialog_listview=0x7f0d0078;
         public static final int selectedSectionsView=0x7f0d00a1;
-        public static final int shareButton=0x7f0d00ac;
+        public static final int shareButton=0x7f0d00ab;
         public static final int shortcut=0x7f0d0062;
         public static final int showCustom=0x7f0d0019;
         public static final int showHome=0x7f0d001a;
@@ -3348,7 +3348,6 @@ containing a value of this type.
         public static final int submit_area=0x7f0d0075;
         public static final int tabMode=0x7f0d0015;
         public static final int templateNameLabel=0x7f0d00aa;
-        public static final int templatesButton=0x7f0d00ab;
         public static final int text=0x7f0d009c;
         public static final int text2=0x7f0d009a;
         public static final int textSpacerNoButtons=0x7f0d0058;
@@ -3368,7 +3367,7 @@ containing a value of this type.
         public static final int up=0x7f0d0011;
         public static final int useLogo=0x7f0d001c;
         public static final int view_offset_helper=0x7f0d0012;
-        public static final int visible=0x7f0d00ad;
+        public static final int visible=0x7f0d00ac;
         public static final int wheelActivityLayout=0x7f0d009e;
         public static final int wheelCenterGlassView=0x7f0d00a4;
         public static final int wheelGlassView=0x7f0d00a3;
