@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\build\\intermediates\\res\\merged\\debug\\raw\\color_schemes.json",
+        "source": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\src\\main\\res\\raw\\color_schemes.json"
+    },
+    {
+        "merged": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\build\\intermediates\\res\\merged\\debug\\raw\\wheel_sound.ogg",
+        "source": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\src\\main\\res\\raw\\wheel_sound.ogg"
+    },
+    {
+        "merged": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\build\\intermediates\\res\\merged\\debug\\raw\\templates.json",
+        "source": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\src\\main\\res\\raw\\templates.json"
+    },
+    {
+        "merged": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\build\\intermediates\\res\\merged\\debug\\raw\\selection_sound.ogg",
+        "source": "J:\\sample_zhy_CircleMenu\\sample_zhy_CircleMenu\\src\\main\\res\\raw\\selection_sound.ogg"
+    }
+]

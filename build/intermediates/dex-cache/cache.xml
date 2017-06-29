@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\design\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-design-25.3.0_1eca199630012fcb1d2f381e7252d02b928cabcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\transition\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-transition-25.3.0_df1f8377bf6e12d9751c3b377844017044881f01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\libs\wheel-menu-library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b74cc31b191ca8420b9b8b20ce90952ee6ee606c">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\wheel-menu-library_384d8bd6f29b16532dd797d49a5e1d709c33264b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.0_300afe1fd6c20c7043317b3bea35922a826beaeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\sample_zhy_CircleMenu\library_zhy_CircleMenu\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e50ea1fd0458c60e5fbf0f1b23cc0169c7d90703">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\sample_zhy_CircleMenu-library_zhy_CircleMenu-unspecified_fb5530ea5ebf1598b7ee186ee68df333f3cd9b11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.0_267a837fb333439f619f4fe051fb3b15e9d531e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.0_771ee9f63a7849a5767c6c2e61ec106246196dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.0_496f5ce0b0ce0abdf9bf4b685f19f34b38c36fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sumit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_962e756219bc492658c85a2a69c00bedfffc2113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.0_af6751793120407adc85af1ff03c02ed3fe11e22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.0_0f91ff2cd1b69df3d79390f78d237e8f62f6f3e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.0_f14829ea4c8802f095f09d42b13a01dec8c342af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.0_4bb860f556edc7a2136f1356d075b9a71ff6fc92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.0_544df324bb0b0227a3db644e4727e9cfc17dc953.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.3.0_e7ebbc7b11b146bbe4d1f304cf0116435cbf387f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="J:\sample_zhy_CircleMenu\sample_zhy_CircleMenu\build\intermediates\pre-dexed\debug\com.github.clans-fab-1.6.4_541e5a5b342e2f3f1db65c19e05b1e7069b33bcb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wheel-menu-library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample_zhy_CircleMenu/libs/wheel-menu-library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

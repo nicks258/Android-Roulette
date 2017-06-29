@@ -1,0 +1,104 @@
+[
+  {
+    "id": 5,
+    "name": "rainbow",
+    "previewImage": "color_scheme_preview_rainbow",
+    "sections": [
+      {"backgroundColor": "#e91b6b", "fontColor": "#ffffff"},
+      {"backgroundColor": "#e9142f", "fontColor": "#ffffff"},
+      {"backgroundColor": "#fc662b", "fontColor": "#ffffff"},
+      {"backgroundColor": "#74b233", "fontColor": "#ffffff"},
+      {"backgroundColor": "#0792c0", "fontColor": "#ffffff"},
+      {"backgroundColor": "#0057d7", "fontColor": "#ffffff"},
+      {"backgroundColor": "#8727dc", "fontColor": "#ffffff"},
+      {"backgroundColor": "#ca0bcc", "fontColor": "#ffffff"}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "dark",
+    "previewImage": "color_scheme_preview_dark",
+    "sections": [
+      {"backgroundColor": "#292929", "fontColor": "#d6d6d6", "borderColor": "#555555"},
+      {"backgroundColor": "#343434", "fontColor": "#d6d6d6", "borderColor": "#555555"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "blue",
+    "previewImage": "color_scheme_preview_light_blue",
+    "sections": [
+      {"backgroundColor": "#00d5ce", "fontColor": "#002b29"},
+      {"backgroundColor": "#00a2ab", "fontColor": "#002022"},
+      {"backgroundColor": "#00c5db", "fontColor": "#00272c"},
+      {"backgroundColor": "#00a0b0", "fontColor": "#002023"},
+      {"backgroundColor": "#00d2d9", "fontColor": "#002a2b"},
+      {"backgroundColor": "#08b3aa", "fontColor": "#022422"},
+      {"backgroundColor": "#30e8d1", "fontColor": "#0a2e2a"},
+      {"backgroundColor": "#11b49e", "fontColor": "#032420"}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "red",
+    "previewImage": "color_scheme_preview_cherry",
+    "sections": [
+      {"backgroundColor": "#ff3f5e", "fontColor": "#ffd9df"},
+      {"backgroundColor": "#d42951", "fontColor": "#f6d4dc"},
+      {"backgroundColor": "#ff2869", "fontColor": "#ffd4e1"},
+      {"backgroundColor": "#d42452", "fontColor": "#f6d3dc"},
+      {"backgroundColor": "#ff3c5f", "fontColor": "#ffd8df"},
+      {"backgroundColor": "#d34044", "fontColor": "#f6d9da"},
+      {"backgroundColor": "#ff5c4f", "fontColor": "#ffdedc"},
+      {"backgroundColor": "#d34244", "fontColor": "#f6d9da"}
+    ]
+  },
+  {
+    "id": 0,
+    "name": "light",
+    "previewImage": "color_scheme_preview_white",
+    "sections": [
+      {"backgroundColor": "#ffffff", "fontColor": "#444444", "borderColor": "#cacaca"},
+      {"backgroundColor": "#ececec", "fontColor": "#444444", "borderColor": "#cacaca"}
+    ]
+  },
+  {
+    "id": 6,
+    "name": "green",
+    "previewImage": "color_scheme_preview_green",
+    "sections": [
+      {"backgroundColor": "#1aee80", "fontColor": "#084726"},
+      {"backgroundColor": "#53c14c", "fontColor": "#193a17"},
+      {"backgroundColor": "#77f056", "fontColor": "#23481a"},
+      {"backgroundColor": "#57c14a", "fontColor": "#1a3a16"},
+      {"backgroundColor": "#1aee78", "fontColor": "#084724"},
+      {"backgroundColor": "#1ac07f", "fontColor": "#083926"},
+      {"backgroundColor": "#1aedb1", "fontColor": "#084735"},
+      {"backgroundColor": "#1ac087", "fontColor": "#083928"}
+    ]
+  },
+  {
+    "id": 7,
+    "name": "pink",
+    "previewImage": "color_scheme_preview_pink",
+    "sections": [
+      {"backgroundColor": "#fb84c7", "fontColor": "#451932"},
+      {"backgroundColor": "#ffbfe3", "fontColor": "#451932"}
+    ]
+  },
+  {
+    "id": 1,
+    "name": "colorful",
+    "previewImage": "color_scheme_preview_colorful",
+    "sections": [
+      {"backgroundColor": "#46820e", "fontColor": "#ffffff"},
+      {"backgroundColor": "#e4ac1a", "fontColor": "#ffffff"},
+      {"backgroundColor": "#8a1a1a", "fontColor": "#ffffff"},
+      {"backgroundColor": "#e548b0", "fontColor": "#ffffff"},
+      {"backgroundColor": "#281d85", "fontColor": "#ffffff"},
+      {"backgroundColor": "#1e6fe7", "fontColor": "#ffffff"},
+      {"backgroundColor": "#006b73", "fontColor": "#ffffff"},
+      {"backgroundColor": "#00da5a", "fontColor": "#ffffff"}
+    ]
+  }
+]

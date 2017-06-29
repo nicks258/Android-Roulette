@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.sample_circlemenu.views.WheelActivityLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/wheelActivityLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <FrameLayout
+        android:id="@+id/wheelGroupView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.zhy.sample_circlemenu.views.WheelSectionsView
+            android:id="@+id/sectionsView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <com.zhy.sample_circlemenu.views.WheelSectionsView
+            android:id="@+id/selectedSectionsView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+    <com.zhy.sample_circlemenu.views.RotationTrackingView
+        android:id="@+id/rotationTrackingView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.zhy.sample_circlemenu.views.WheelGlassView
+        android:id="@+id/wheelGlassView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.zhy.sample_circlemenu.views.WheelCenterGlassView
+        android:id="@+id/wheelCenterGlassView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.zhy.sample_circlemenu.views.RoundButton
+        android:id="@+id/kickButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#fff" />
+
+    <com.zhy.sample_circlemenu.views.DisplayView
+        android:id="@+id/displayView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.zhy.sample_circlemenu.views.AutoResizeTextView
+            android:id="@+id/backLabel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-light"
+            android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+            android:includeFontPadding="false"
+            android:padding="0dp"
+            android:singleLine="true"
+            android:textAlignment="center"
+            android:textColor="#b7e8ff" />
+
+        <com.zhy.sample_circlemenu.views.AutoResizeTextView
+            android:id="@+id/frontLabel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-light"
+            android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+            android:includeFontPadding="false"
+            android:padding="0dp"
+            android:singleLine="true"
+            android:textAlignment="center"
+            android:textColor="#b7e8ff" />
+
+        <com.zhy.sample_circlemenu.views.AutoResizeTextView
+            android:id="@+id/defaultLabel"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fontFamily="sans-serif-light"
+            android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+            android:includeFontPadding="false"
+            android:padding="0dp"
+            android:singleLine="true"
+            android:textAlignment="center"
+            android:textColor="#b7e8ff" />
+    </com.zhy.sample_circlemenu.views.DisplayView>
+
+    <com.zhy.sample_circlemenu.views.AutoResizeTextView
+        android:id="@+id/templateNameLabel"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="sans-serif"
+        android:gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:includeFontPadding="false"
+        android:padding="0dp"
+        android:singleLine="true"
+        android:textAlignment="center"
+        android:textColor="#ffffff" />
+
+    <com.zhy.sample_circlemenu.views.ResponsiveImageButton
+        android:id="@+id/templatesButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:background="@drawable/round_button"
+        android:contentDescription="wheels"
+        android:src="@drawable/settings_icon" />
+
+    <com.zhy.sample_circlemenu.views.ResponsiveImageButton
+        android:id="@+id/shareButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:background="@drawable/round_button"
+        android:contentDescription="share"
+        android:src="@drawable/share_icon" />
+
+    <com.zhy.sample_circlemenu.views.ResponsiveImageButton
+        android:id="@+id/labelOptionsButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_gravity="top|bottom|left|right|center_vertical|fill_vertical|center_horizontal|fill_horizontal|center|fill|start|end"
+        android:background="@drawable/round_button"
+        android:contentDescription="label_options"
+        android:src="@drawable/ic_label_options" />
+</com.zhy.sample_circlemenu.views.WheelActivityLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reset_all_labels">Reset all labels</string>
+    <string name="share_text_selected">It\'s decided then!</string>
+    <string name="share_text_unselected">I\'m about to decide</string>
+    <string name="app_name">Zersey</string>
+    <string name="share">Share</string>
+    <string name="action_settings">Setting</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="deactivate_current_label">Deactivate current label</string>
+    <string name="decide_now_mail_subject">Decide Now!</string>
+</resources>
